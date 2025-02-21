@@ -6,10 +6,6 @@ This is the backend API for the KYC (Know Your Customer) verification system. It
 
 - Document processing using Vision AI
 - User information validation
-- CORS support for frontend integration
-- Error handling and retries
-- Temporary file management
-- Logging system
 
 ## Prerequisites
 
