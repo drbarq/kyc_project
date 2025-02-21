@@ -189,9 +189,13 @@ Analyze the following:
 
 ## Product Screenshots
 
+#### License 1 Failing due to wrong name and DOB 
 ![License 1 Failing due to wrong name and DOB](images/license1-fail.png)
+#### License 1 Passing
 ![License 1 Passing](images/license1-pass.png)
+#### Passport 1 Failing due to name
 ![Passport 1 Failing due to name](images/passport1-fail.png)
+#### Passport 1 Passing :: Example of the prompt recognizing the address is in the region provided by the passport
 ![Passport 1 Passing](images/passport1-pass.png)
 
-### Example of the prompt recognizing the address is in the region provided by the passport
+
